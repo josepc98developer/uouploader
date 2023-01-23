@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<d:propfind  xmlns:d="DAV:" xmlns:oc="http://owncloud.org/ns">
+  <d:prop>
+    <d:getlastmodified />
+    <d:getetag />
+    <d:getcontenttype />
+    <d:resourcetype />
+    <oc:fileid />
+    <oc:permissions />
+    <oc:size />
+    <d:getcontentlength />
+    <oc:tags />
+    <oc:favorite />
+    <oc:owner-display-name />
+    <oc:share-types />
+    <oc:comments-unread />
+  </d:prop>
+</d:propfind>
